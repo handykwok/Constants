@@ -27,6 +27,7 @@ public struct Constants {
     public static let _80 = 80.0
     public static let _90 = 90.0
     public static let _100 = 100.0
+    
     public static let _110 = 110.0
     public static let _120 = 120.0
     public static let _130 = 130.0
@@ -37,5 +38,12 @@ public struct Constants {
     public static let _180 = 180.0
     public static let _190 = 190.0
     public static let _200 = 200.0
+    
+    public static let _220 = 220.0
+    public static let _240 = 240.0
+    public static let _250 = 250.0
+    public static let _260 = 260.0
+    public static let _280 = 280.0
+    public static let _300 = 300.0
     
 }
